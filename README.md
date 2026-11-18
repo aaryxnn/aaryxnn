@@ -11,6 +11,7 @@ I'm a Computer Engineering student at UMass Amherst, building mobile apps and AI
 | [Multimodal AI App](https://github.com/arav16112004/Multimodal-AI-App) | Multimodal sentiment analysis with an application for uploads and inference | Python, PyTorch, Next.js, AWS SageMaker, S3 |
 | [Spirit](https://github.com/aaryxnn/Spirit) | An early desktop project for taekwondo academy student records and equipment billing | Python, Tkinter, MySQL |
 | [LLM Inference Lab](https://github.com/aaryxnn/llm-inference-lab) | Built an LLM benchmarking dashboard, achieving 3.38× throughput with batching and 35% lower generation latency with KV caching in recorded GPU experiments | Python, PyTorch, CUDA, Hugging Face Transformers, JavaScript |
+| [Swap](https://github.com/aaryxnn/swap) | A mobile clothing marketplace built with Expo, React Native, TypeScript, and Expo Router.| Expo, React Native, TypeScript, and Expo Router |
 
 ## A little more about me
 
